@@ -25,11 +25,30 @@ Follow the steps below to set up and run the project locally.
 Make sure you have the following software installed on your machine:
 
 - **Node.js** (version 14 or higher): [Download Node.js](https://nodejs.org/)
-- **npm** (comes with Node.js) or **Yarn** (optional): [Download Yarn](https://yarnpkg.com/)
-
+- **npm** (comes with Node.js)
+  
 ### Installation
 
 1. **Clone the repository**:
 
    ```bash
    git clone https://github.com/krish-1401/Project
+
+2. **Navigate into the project directory:**
+
+   ```bash
+   cd Project
+
+3. **Install the dependencies:**
+
+   ```bash
+   npm install
+
+   
+4. **Start the Vite development server:**
+
+   ```bash
+   npm run dev
+   
+
+
