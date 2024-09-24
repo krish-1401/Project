@@ -32,4 +32,4 @@ Make sure you have the following software installed on your machine:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/healthcare-services-manager.git
+   git clone https://github.com/krish-1401/Project
