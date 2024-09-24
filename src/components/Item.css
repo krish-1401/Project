@@ -1,0 +1,35 @@
+.tableofcontent{
+    position: relative;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    margin-top: 14px;
+    /* background-color: antiquewhite; */
+}
+li{
+    list-style: none;
+}
+.servicename{
+    width: 25%;
+    font-size: 20px;
+    /* font-weight: 600; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+}
+.servicedesc{
+    /* background-color: antiquewhite; */
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 7px;
+}
+.serviceprice{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 7px;
+}
